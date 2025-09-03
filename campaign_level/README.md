@@ -1,3 +1,5 @@
+# Input : campaign_duration, num_ads, cost, business_type
+# Output: impressions, reach, clicks, actions, conversion_value
 ==========================================================================================
 # Training target: impressions
 - [VAL LOG]  MAE=0.6408  RMSE=0.8207  R2=0.4769
